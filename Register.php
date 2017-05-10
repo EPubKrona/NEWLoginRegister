@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("files.000webhost.com", "id1612358_krona", "shortyMP3", "id1612358_epub");
+    $con = mysqli_connect("localhost", "id1612358_krona", "shortyMP3", "id1612358_epub");
     
     $name = $_POST["name"];
     $age = $_POST["mail"];
