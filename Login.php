@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("localhost", "id1612358_krona", "shortyMP3", "id1612358_epub");
+    $con = mysqli_connect("test94963.test-account.com", "w016e7fd", "UQFnpodK43Ev", "d026557a");
     
     $username = $_POST["username"];
     $password = $_POST["password"];
