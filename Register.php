@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("w016e7fd.kasserver.com", "d026557a", "shortyMP3", "d026557a");
+    $con = mysqli_connect("dd6006.kasserver.com", "d026557a", "shortyMP3", "d026557a");
     
     $name = $_POST["name"];
     $mail = $_POST["mail"];
