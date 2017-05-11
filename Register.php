@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("webftp.all-inkl.com", "d026557a", "shortyMP3", "d026557a");
+    $con = mysqli_connect("localhost", "d026557a", "shortyMP3", "d026557a");
     
     $name = $_POST["name"];
     $mail = $_POST["mail"];
