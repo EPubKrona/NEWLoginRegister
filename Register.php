@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("", "", "shortyMP3", "d026557a");
+    $con = mysqli_connect("", "", "", "");
     
     $name = $_POST["name"];
     $mail = $_POST["mail"];
